@@ -25,6 +25,7 @@ public class StudentModel {
     private Integer id;
     private String course;
     private String email;
-
+    private int age;
+    private int marks;
 
 }

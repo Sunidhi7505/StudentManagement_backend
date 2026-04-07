@@ -12,6 +12,8 @@ import lombok.Setter;
 public class StudentDTO {
     private String name;
     private String email;
+    private String course;
+    private int marks;
     
 }
 
